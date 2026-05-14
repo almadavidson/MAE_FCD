@@ -4,4 +4,4 @@ Notebooks:
 2. dl-project-training.ipynb - training stage 2 for training and generalization
 
 Datasets:
-1. 
+1. Weights are on the publicly available dataset 
